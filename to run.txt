@@ -5,7 +5,7 @@
 2. Go to address bar
    search -> cmd
 	  -> activate venv {command -> .venv\Scripts\activate }
-	  -> generate IP address for AI agent {command -> python webui.py --ip 127.0.0.1 --port 7788 }
+	  -> generate IP address for AI agent
 
 3. Copy the URL and Paste in browser
 
@@ -13,11 +13,11 @@
 
 5. Go to LLM settings 
    select -> google (LLM Provider)
-	  -> API Key  { API = AIzaSyDdQZSkjZ56rPQVd718WmBUKk8EhcjgTmk }
+	  -> API Key 
  
 6. Now the AI agent is ready 
 
 Important :
 	To get the API key -> go to google studio -> create API key -> copy the API key
 
-	API = AIzaSyDdQZSkjZ56rPQVd718WmBUKk8EhcjgTmk
+	
